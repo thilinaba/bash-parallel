@@ -59,7 +59,7 @@ while IFS= read -r line; do
   
 done < $JOB_LIST # this is where we feed the $JOB_LIST file for the read operation
 
-# wait for all background jobs (forks) to exit before exitting the parent process
+# wait for all background jobs (forks) to exit before exiting the parent process
 wait
 
 # Ending the timer
