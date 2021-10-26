@@ -1,0 +1,10 @@
+google.com 10
+facebook.com 3
+youtube.com 5
+linkedin.com 20
+twitter.com 8
+medium.com 10
+github.com 3
+ubuntu.com 5
+redhat.com 6
+kubernetes.io 20
